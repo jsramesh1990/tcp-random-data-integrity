@@ -461,10 +461,6 @@ Free to use for learning, research, and embedded development.
 
 ---
 
-## Author
-
-**jsramesh1990**
-
 ## Acknowledgments
 
 - IEEE 802.3 CRC32 Standard
